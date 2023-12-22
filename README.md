@@ -9,6 +9,10 @@ I have strong knowledge of JavaScript, TypeScript, React, NextJS, and web design
 
 - 📫 How to reach me: **hadiyandev@gmail.com** **09353053681**
 
+###
+
+![](https://komarev.com/ghpvc/?username=hadian-dev)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadian-dev&show_icons=true&theme=radical) -->
 
 <h3 align="left">Connect with me:</h3>
